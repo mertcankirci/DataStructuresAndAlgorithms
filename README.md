@@ -13,5 +13,7 @@
 - It calculates the time taken to run an algorithm as the input grows.
 - Big O Notation in Data Structure describes the upper bound of an algorithm's runtime.
 
+In other words , Big O Notation calculates the worst scenario of  an algorithm's time  complexity .
+
 
 
