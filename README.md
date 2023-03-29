@@ -6,7 +6,7 @@
 ### Okay but what is Data Structures and Algorithms ?
 - A data structure is a named location that can be used to store and organize data. And, an algorithm is a collection of steps to solve a particular problem.
 
-#Let's Start ! 
+# Let's Start ! 
 
 ### What is Big O Notation ? 
 - Big O Notation is a tool used to describe the time complexity of algorithms.
